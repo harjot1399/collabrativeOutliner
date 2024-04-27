@@ -13,7 +13,7 @@ This project is a live, collaborative outline editing service developed with Fla
 - **Backend**: Flask (Python)
 - **Frontend**: Vanilla JavaScript, HTML, CSS
 
-References:
+#References:
 1. https://flask.palletsprojects.com/en/latest/quickstart/
 2. https://www.youtube.com/watch?v=4r_XR9fUPhQ
 3. https://stackoverflow.com/questions/20062527/scan-tree-structure-from-bottom-up
