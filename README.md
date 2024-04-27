@@ -1,9 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/47yKvgix)
 # labsignment-flask-ajax
 
-Name: Harjot Singh
-CCID: harjot5
-Student ID: 1631501
+Description
+This project is a live, collaborative outline editing service developed with Flask. It allows users to dynamically create, modify, and collaborate on outlines in real-time. Each change in the outline is reflected across all open sessions within a few seconds without overwriting ongoing modifications.
+
+Features
+- Real-time collaboration on outline editing.
+- Ability to add, delete, and modify items within the outline.
+- Persistent ordering of outline items.
+- The outline structure supports a hierarchical (tree-like) organization.
 
 
 References:
